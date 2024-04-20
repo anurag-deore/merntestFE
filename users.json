@@ -1,0 +1,37 @@
+[
+  {
+    "UserID": "4a44378a-83e7-430d-ba49-aa9166c935c2",
+    "Username": "User_uc05p",
+    "PasswordHash": "8uy04",
+    "Email": "email_ctup9s@example.com",
+    "UserType": "admin"
+  },
+  {
+    "UserID": "abb3e07d-daeb-4b84-a363-8ee4fffc5974",
+    "Username": "User_nr3jmv",
+    "PasswordHash": "yanib",
+    "Email": "email_lo9c55h@example.com",
+    "UserType": "regular"
+  },
+  {
+    "UserID": "e84f3e71-db44-47d6-a91c-3e8230c03703",
+    "Username": "User_ye7dxp",
+    "PasswordHash": "rjir2p",
+    "Email": "email_p4okqq@example.com",
+    "UserType": "admin"
+  },
+  {
+    "UserID": "f20772b4-4c56-4855-bc00-7c4282e99150",
+    "Username": "User_frqdzt",
+    "PasswordHash": "ked8d8",
+    "Email": "email_r5hub@example.com",
+    "UserType": "regular"
+  },
+  {
+    "UserID": "e8f87f79-7059-4f1f-aabe-03e44239b4df",
+    "Username": "User_c4mf92x",
+    "PasswordHash": "vv3n6",
+    "Email": "email_n88qmg@example.com",
+    "UserType": "admin"
+  }
+]
